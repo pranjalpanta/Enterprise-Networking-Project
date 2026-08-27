@@ -1,4 +1,4 @@
-#Enterprise Network Design and Configuration 
+*Enterprise Network Design and Configuration*
 
 ## 📌 Project Overview
 
